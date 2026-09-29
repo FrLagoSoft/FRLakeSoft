@@ -6,4 +6,5 @@ I've had many notable jobs throughout the last few years, most notably as an IT 
 
 My commonly used tech stacks include: 
 Python (Django), Java (Springboot), Arduino, JS / CSS / HTML (React / Node.js), C, C#, and Rust. 
+
 My goal is to be hired by a respectable company. As of late, I've been changing my state of mind regarding some of the projects that I'm undertaking. For instance, I've gotten alot more passionate towards general hardware systems, so much so to the point where I've considered making a major change to further my reach into hardware. But I'm unsure as of now, though I will admit that everything that I work on, I pour passion into. 
